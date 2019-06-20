@@ -182,5 +182,6 @@ dmypy.json
 .history
 
 media/*
+test/*
 
 # End of https://www.gitignore.io/api/linux,macos,python,visualstudiocode
